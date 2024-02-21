@@ -25,7 +25,7 @@
 <!-- My Social Handles -->
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/shivammm.21/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/amajaying](https://www.linkedin.com/in/shivamthorat/)) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/shivammm.21/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/shivamthorat/](https://www.linkedin.com/in/shivamthorat/)) 
 <br>
 <!-- Languages and Tools I use  -->
 # 💻 Tech Stack:
