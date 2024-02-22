@@ -13,7 +13,7 @@
 
 <!-- My Details -->
 # 💫 About Me:
-<p>🌐: Learning DSA<br>👨‍💻: Passionate Android Developer <br>🏫: Comp Undergrad 2026<br>📫: <b>shivamthorat00@gmail.com</b><br>👀: I am looking to contribute in <b>Open Source Projects.</b><br>⚡ Fun fact? <b>I am amajaying! ;)</b></p><br>
+<p>🌐: Learning DSA<br>👨‍💻: Passionate Android Developer <br>🏫: Comp Undergrad 2026<br>📫: <b>shivamthorat00@gmail.com</b><br>👀: I am looking to contribute in <b>Open Source Projects.</b></p><br>
 
 
 <!-- HacktoberFest Badges -->
