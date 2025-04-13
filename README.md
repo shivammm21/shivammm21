@@ -6,7 +6,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
--  🎓 &nbsp;I'm currently pursuing a Bachelor's of Engineering, where I'm honing my skills in technology and development. 
+-  🎓 &nbsp; I'm pursuing a Bachelor's of Engineering, where I'm honing my skills in technology and development. 
 - 🌱 &nbsp; I actively contribute to open-source projects and believe in the power of collaboration in the tech community
 - 💼 &nbsp; As a freelancer, I specialize in backend development, building scalable, efficient systems to solve real-world problems.
 - 🚀 &nbsp; Passionate about coding, technology, and open-source development
