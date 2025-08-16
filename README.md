@@ -1,5 +1,5 @@
 <!-- banner -->
-<!-- <img src="Banner.png"> -->
+<img src="Banner.png" width="100%" height="50%"> 
 
  <h1>👋 Hey there! I'm Shivam Thorat.</h1>
 
@@ -8,7 +8,7 @@
 
 -  🎓 &nbsp; I'm pursuing a Bachelor's of Engineering, where I'm honing my skills in technology and development. 
 - 🌱 &nbsp; I actively contribute to open-source projects and believe in the power of collaboration in the tech community
-- 💼 &nbsp; As a freelancer, I specialize in backend development, building scalable, efficient systems to solve real-world problems.
+- 💼 &nbsp; As a freelancer, I specialize in secure backend development, building scalable, efficient systems to solve real-world problems.
 - 🚀 &nbsp; Passionate about coding, technology, and open-source development
 - 🏆 &nbsp; GitHub Achievements: Pull Shark x2, Quickdraw
 
@@ -68,21 +68,6 @@
 <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 <img alt="Docker" src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
 
-<h3> 📊 &nbsp;GitHub Analytics </h3>
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=shivammm21&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&hide=contribs,issues" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=shivammm21&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivammm21&theme=radical&hide_border=true&layout=compact&langs_count=5&exclude=html,css,javascript,typescript,php,python,c,c++,makefile" />
-  <img width="49%" src="https://github-profile-trophy.vercel.app/?username=shivammm21&theme=radical&no-frame=true&column=7&margin-w=15&margin-h=15&no-bg=true" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shivammm21&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
