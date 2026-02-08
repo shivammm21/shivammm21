@@ -83,25 +83,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/shivammm21/pocketdoctor">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=shivammm21&repo=pocketdoctor&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/shivammm21/budget-app">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=shivammm21&repo=budget-app&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/shivammm21/Online-Attendance">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=shivammm21&repo=Online-Attendance&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/shivammm21/balirajaconnect-app">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=shivammm21&repo=balirajaconnect-app&theme=tokyonight&hide_border=true" />
-  </a>
-</div>
-
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -111,14 +92,6 @@
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivammm21&theme=tokyo-night&hide_border=true&area=true" />
-</div>
-
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shivammm21&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" />
 </div>
 
 ---
