@@ -3,14 +3,21 @@
 </div>
 
 
+
+
+
+
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shivam+Thorat!;" />
 </h1>
 
 <div align="center">
   <h3>🚀 Full-Stack Developer | 💻 Backend Specialist | 🌟 Open Source Enthusiast</h3>
-  <p>Passionate about building scalable, secure systems and contributing to the tech community...</p>
+  <p>Passionate about building scalable, secure systems and contributing to the tech community....</p>
 </div>
+
+
+
 
 
 
