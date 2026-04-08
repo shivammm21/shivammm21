@@ -9,7 +9,7 @@
 
 <div align="center">
   <h3>🚀 Full-Stack Developer | 💻 Backend Specialist | 🌟 Open Source Enthusiast</h3>
-  <p>Passionate about building scalable, secure systems and contributing to the tech community...</p>
+  <p>Passionate about building scalable, secure systems and contributing to the tech community....</p>
 </div>
 
 
