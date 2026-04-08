@@ -26,6 +26,7 @@
 - 💡 **Interests**: Backend development, API design, database optimization, and DevOps practices
 - 📫 **Reach me at**: shivamthorat2103@gmail.com
 
+
 ---
 
 ## 🛠️ Technology Stack
